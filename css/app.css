@@ -1,11 +1,22 @@
-body{
-    font-family: 'Roboto', sans-serif !important;
-    font-weight: 300;
+body {
+  font-family: "Roboto", sans-serif !important;
+  font-weight: 300;
 }
-td, th {
-    padding: 15px 15px !important;
-    font-size: 28px;
+
+td,
+th {
+  padding: 15px 15px !important;
 }
-.myModal{
-    width: 30%;
+
+.myModal {
+  width: 30%;
+}
+
+input[type="text"] {
+  font-size: 80px !important;
+  letter-spacing: 12px !important;
+  text-align: center;
+  border-bottom: none !important;
+  height: 95px !important;
+  line-height: 95px !important;
 }
