@@ -1,5 +1,5 @@
-## Timer Clock
-A simple timer clock application.
+## Stopwatch Clock
+A simple stopwatch clock application.
 
 ## Screenshot
-![1](https://github.com/masudncse/timer-html-layout/blob/master/screenshot/1.png)
+![1](https://github.com/masudncse/stopwatch-html-layout/blob/master/screenshot/1.png)
