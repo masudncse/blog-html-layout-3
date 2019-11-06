@@ -1,5 +1,5 @@
-## Stopwatch Clock
-A simple stopwatch clock application.
+## Blog Application
+A simple blog application html layout.
 
 ## Screenshot
-![1](https://github.com/masudncse/stopwatch-html-layout/blob/master/screenshot/1.png)
+![1](https://github.com/masudncse/blog-html-layout/blob/master/screenshot/1.png)
